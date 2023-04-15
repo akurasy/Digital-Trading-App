@@ -92,4 +92,5 @@ Before making any contributions, please ensure that your changes align with the 
 - Follow the coding conventions and style used throughout the project.
 - By contributing to this project, you agree to license your contributions under the terms of the MIT License.
 
+#akuracy putting first commit
 Thank you for your interest in this project!
